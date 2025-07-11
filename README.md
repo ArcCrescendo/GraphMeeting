@@ -1,17 +1,17 @@
-# GraphMetting | 图会议
+# GraphMeeting | 图会议
 ### May 22, 2025 ｜ 2025年5月22日 晚上 阴天
 ## 📚 Overview | 项目简介 
-**Graph Metting** 是一个旨在推动创新思想、促进协作与高效决策的项目。它不仅仅是一个会议工具，更是一个通过非线性结构展现和扩充每个参与者想法的系统。我们相信，思维是渐进的，通过清晰表达并提供相互支持，想法能逐渐演变并最终形成可实践的解决方案。
+**Graph Meeting** 是一个旨在推动创新思想、促进协作与高效决策的项目。它不仅仅是一个会议工具，更是一个通过非线性结构展现和扩充每个参与者想法的系统。我们相信，思维是渐进的，通过清晰表达并提供相互支持，想法能逐渐演变并最终形成可实践的解决方案。
 
-**非线性会议** 是 **Graph Metting** 实现思想的一部分。它打破传统会议中线性发言的限制，帮助每个参与者自由表达，AI 在后台构建动态图结构，将讨论的关键点和争议逐步提炼并呈现，助力高效决策。
+**非线性会议** 是 **Graph Meeting** 实现思想的一部分。它打破传统会议中线性发言的限制，帮助每个参与者自由表达，AI 在后台构建动态图结构，将讨论的关键点和争议逐步提炼并呈现，助力高效决策。
 
-**Graph Metting** 的核心理念是：想法至关重要，完美的表达更为重要；而将这些想法展现出来，看到它们的可能性与可行性，并最终被团队认可并转化为行动路径，才是最为重要的。
+**Graph Meeting** 的核心理念是：想法至关重要，完美的表达更为重要；而将这些想法展现出来，看到它们的可能性与可行性，并最终被团队认可并转化为行动路径，才是最为重要的。
 
 正如本项目的作者[@苍穹Crescendo](https://space.bilibili.com/3546656385534288/dynamic)所言：“我希望想法得到非线性结构呈现和扩充，想法非常重要，完美的表达出想法更重要，让想法看到可能性可行性并被大家认可最终得到可以实践的行动路径非常重要。” **Idea Crescendo** 的目标正是实现这个理想，让每一个创意都能得到充分的展示和发展，确保思维在讨论中不断进化，并最终转化为切实可行的解决方案。
 
 ---
 
-**渐进式思想** 是 **Graph Metting** 的灵魂所在，代表了一个从小到大、从浅到深的逐步发展过程。作者[@苍穹Crescendo](https://space.bilibili.com/3546656385534288/dynamic):“我很喜欢逐渐构建起来的事物带来的沉稳感，而不是空中楼阁”。在这个项目中，思想从最初的萌芽，到逐渐深化，最后形成共识与决策，这一过程不仅是思想上的积累，也是一种团队协作的渐进过程。
+**渐进式思想** 是 **Graph Meeting** 的灵魂所在，代表了一个从小到大、从浅到深的逐步发展过程。作者[@苍穹Crescendo](https://space.bilibili.com/3546656385534288/dynamic):“我很喜欢逐渐构建起来的事物带来的沉稳感，而不是空中楼阁”。在这个项目中，思想从最初的萌芽，到逐渐深化，最后形成共识与决策，这一过程不仅是思想上的积累，也是一种团队协作的渐进过程。
 
 **Graph Metting** 希望通过逐渐构建、不断演化的方式，使团队成员能更好地理解彼此的观点、达成共识，并最终推动有意义的行动。它不仅是一个工具，更是一种思维方式的表达——在理性、渐进的讨论中，最大化每一个想法的潜力。
 
@@ -82,9 +82,9 @@ Each meeting is an opportunity to contribute to a growing body of knowledge, pro
 ---
 
 ## 🌱 Project Vision | 项目愿景
-**Graph Metting** aims to foster an environment where ideas are not just spoken but evolve and grow through collaborative discussion, powered by intelligent analysis. By providing a platform for non-linear, flexible, and data-driven communication, we hope to redefine the future of work and collaboration.
+**Graph Meeting** aims to foster an environment where ideas are not just spoken but evolve and grow through collaborative discussion, powered by intelligent analysis. By providing a platform for non-linear, flexible, and data-driven communication, we hope to redefine the future of work and collaboration.
 
-**Graph Metting* 旨在营造一个环境，在这里，想法不仅仅是被说出，而是通过协作讨论和智能分析逐步演变与扩展。通过提供一个非线性、灵活且数据驱动的沟通平台，我们希望重新定义未来的工作与协作方式。
+**Graph Meeting* 旨在营造一个环境，在这里，想法不仅仅是被说出，而是通过协作讨论和智能分析逐步演变与扩展。通过提供一个非线性、灵活且数据驱动的沟通平台，我们希望重新定义未来的工作与协作方式。
 
 ---
 
